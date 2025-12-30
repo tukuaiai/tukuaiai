@@ -99,7 +99,7 @@
 </details>
 
 <details>
-<summary>🔮 <b>测算猫</b> - Fate Engine</summary>
+<summary>🎲 <b>测算猫</b> - Fate Engine</summary>
 
 ### [测算猫](https://t.me/cs_cat_bot)
 
