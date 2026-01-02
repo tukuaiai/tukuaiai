@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary>📈 <b>交易猫</b> - Tukuai AI</summary>
+<summary>📈 <b>交易猫</b> - tradecat</summary>
 
 ### [交易猫](https://github.com/tukuaiai/tradecat)
 
