@@ -61,11 +61,9 @@
 </details>
 
 <details>
-<summary>📈 <b>土块量化</b> - Tukuai AI</summary>
+<summary>📈 <b>交易猫</b> - Tukuai AI</summary>
 
-### [土块量化](https://t.me/tukuai_ai_bot)
-
-**加密货币量化交易数据平台（后端正在更新维护中）**
+### [交易猫](https://github.com/tukuaiai/tradecat)
 
 - 📡 **实时数据采集** - WebSocket 订阅 Binance USDT 永续合约全市场
 - 📊 **38+ 专业指标** - Smart Money Concepts（订单块/FVG/结构反转）、VWMA 斐波狙击、剥头皮信号、Amihud/Kyle 流动性模型、VPVR 成交量分布、趋势线识别、K线形态识别
