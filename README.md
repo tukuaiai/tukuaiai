@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary>📈 <b>交易猫</b> - tradecat</summary>
+<summary>📈 <b>交易猫</b> - tradecat <img src="https://img.shields.io/github/stars/tukuaiai/tradecat?style=social" alt="stars"></summary>
 
 ### [交易猫](https://github.com/tukuaiai/tradecat)
 
