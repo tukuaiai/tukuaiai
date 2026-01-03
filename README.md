@@ -32,11 +32,14 @@
 ## 🧠 作品集
 
 <details>
-<summary>🧬 <b>immortality</b> - 永生计划 <img src="https://img.shields.io/github/stars/tukuaiai/immortality?style=social" alt="stars"></summary>
+<summary>🧬 <b>wetware-engineering</b> - 湿件工程 <img src="https://img.shields.io/github/stars/tukuaiai/immortality?style=social" alt="stars"></summary>
 
-### [immortality](https://github.com/tukuaiai/immortality)
+### [wetware-engineering](https://github.com/tukuaiai/wetware-engineering)
 
-**从自然进化到自主进化**
+**从被造物到造物者**
+
+将生物能力从生物体中分离出来，形成可重复使用的模块，
+运用软件工程范式重构生命系统
 
 | 维度 | 稀缺性 | 愿景 |
 |:---:|:---:|:---|
