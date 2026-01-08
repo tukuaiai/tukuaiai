@@ -83,7 +83,7 @@
 <details>
 <summary>📊 <b>预测猫</b> - Polymarket 信号</summary>
 
-### [预测猫](https://t.me/polymarket_jb_bot)
+### [预测猫](https://t.me/predictcat_ai_bot)
 
 **预测市场信号检测与交易工具**
 
