@@ -118,7 +118,7 @@
 <details>
 <summary>🤖 <b>TradEx</b> - 量化做市系统</summary>
 
-### TradEx
+### [TradEx](https://github.com/tukuaiai/tradecat/tree/main/services-preview/order-service)
 
 **高频做市策略引擎**
 
