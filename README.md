@@ -131,9 +131,9 @@
 </details>
 
 <details>
-<summary>📡 <b>Alternative-Data</b> - 全网情报流</summary>
+<summary>📡 <b>datacat</b> - 全网情报流</summary>
 
-### Alternative-Data
+### datacat
 
 **从宏观实事到微观动态，一网打尽**
 
