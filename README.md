@@ -83,7 +83,7 @@
 <details>
 <summary>📊 <b>预测猫</b> - Polymarket 信号</summary>
 
-### [预测猫](https://t.me/predictcat_ai_bot)
+### [预测猫](https://github.com/tukuaiai/tradecat/tree/main/services-preview/predict-service)
 
 **预测市场信号检测与交易工具**
 
@@ -102,7 +102,7 @@
 <details>
 <summary>🎲 <b>测算猫</b> - Fate Engine</summary>
 
-### [测算猫](https://t.me/cs_cat_bot)
+### [测算猫](https://github.com/tukuaiai/tradecat/tree/main/services-preview/fate-service)
 
 **专业级八字排盘系统 | 功能最完整的开源命理引擎**
 
