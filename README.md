@@ -2,9 +2,15 @@
 
 ## 💰 赞助商列表
 
-**BSC社区CA(0x8a99b8d53eff6bc331af529af74ad267f3167777)** 
+### 交易猫
 
-**SOL社区CA(Gysp4iZ6uNuAksAPR37fQwLDRFU9Rz255UjExhiwpump)** 
+**BSC社区CA (0x8a99b8d53eff6bc331af529af74ad267f3167777)** 
+
+**SOL社区CA (Gysp4iZ6uNuAksAPR37fQwLDRFU9Rz255UjExhiwpump)** 
+
+### prompt 在线表格
+
+**https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?gid=1254297203#gid=1254297203**
 
 **捐赠属自愿行为，不提供任何回报或收益承诺**
 
