@@ -4,9 +4,9 @@
 
 ### 交易猫
 
-**BSC社区CA (0x8a99b8d53eff6bc331af529af74ad267f3167777)** 
+**BSC社区CA：0x8a99b8d53eff6bc331af529af74ad267f3167777** 
 
-**SOL社区CA (Gysp4iZ6uNuAksAPR37fQwLDRFU9Rz255UjExhiwpump)** 
+**SOL社区CA：Gysp4iZ6uNuAksAPR37fQwLDRFU9Rz255UjExhiwpump** 
 
 ### prompt 在线表格
 
