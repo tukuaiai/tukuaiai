@@ -1,5 +1,13 @@
 # 🧠 123olp
 
+## 💰 赞助商列表
+
+**BSC社区CA(0x8a99b8d53eff6bc331af529af74ad267f3167777)** 
+
+**SOL社区CA(Gysp4iZ6uNuAksAPR37fQwLDRFU9Rz255UjExhiwpump)** 
+
+**捐赠属自愿行为，不提供任何回报或收益承诺**
+
 ## 🔧 技术与工具
 
 ![](https://img.shields.io/badge/AI-Vibe_Coding-informational?style=flat&logo=robot&logoColor=white&color=2bbc8a)
