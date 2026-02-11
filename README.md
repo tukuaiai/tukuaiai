@@ -192,4 +192,4 @@
 
 | 📧 Email | 🐦 Twitter/X | 💬 Telegram | 👥 交流群 | 📢 频道 |
 |:---:|:---:|:---:|:---:|:---:|
-| tukuai.ai@gmail.com | [@123olp](https://x.com/123olp) \| [@tukuai_ai](https://x.com/tukuai_ai) | [@desci0](https://t.me/desci0) | [glue_coding](https://t.me/glue_coding) | [tradecat_ai_channel](https://t.me/tradecat_ai_channel) |
+| tukuai.ai@gmail.com | [@123olp](https://x.com/123olp) | [@desci0](https://t.me/desci0) | [glue_coding](https://t.me/glue_coding) | [tradecat_ai_channel](https://t.me/tradecat_ai_channel) |
