@@ -95,7 +95,7 @@
 <details>
 <summary>📊 <b>预测猫</b> - Polymarket 信号</summary>
 
-### [预测猫](https://github.com/tukuaiai/tradecat/tree/main/services-preview/predict-service)
+### [预测猫](https://github.com/tukuaiai/tradecat/tree/master/services-preview/predict-service)
 
 **预测市场信号检测与交易工具**
 
