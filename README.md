@@ -114,7 +114,7 @@
 <details>
 <summary>🎲 <b>测算猫</b> - Fate Engine</summary>
 
-### [测算猫](https://github.com/tukuaiai/tradecat/tree/main/services-preview/fate-service)
+### [测算猫](https://github.com/tukuaiai/tradecat/tree/master/services-preview/fate-service)
 
 **专业级八字排盘系统 | 功能最完整的开源命理引擎**
 
