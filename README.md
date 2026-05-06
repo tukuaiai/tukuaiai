@@ -95,7 +95,7 @@
 <details>
 <summary>📊 <b>预测猫</b> - Polymarket 信号</summary>
 
-### [预测猫](https://github.com/tukuaiai/tradecat/tree/master/services-preview/predict-service)
+### [预测猫](https://github.com/tukuaiai/predictcat)
 
 **预测市场信号检测与交易工具**
 
@@ -114,7 +114,7 @@
 <details>
 <summary>🎲 <b>测算猫</b> - Fate Engine</summary>
 
-### [测算猫](https://github.com/tukuaiai/tradecat/tree/master/services-preview/fate-service)
+### [测算猫](https://github.com/tukuaiai/fatecat)
 
 **专业级八字排盘系统 | 功能最完整的开源命理引擎**
 
@@ -124,21 +124,6 @@
 - 🧾 **双报告产物**：常规版 + AI 分析版
 
 [![Tech](https://skillicons.dev/icons?i=python,fastapi,js)](https://skillicons.dev)
-
-</details>
-
-<details>
-<summary>🤖 <b>TradEx</b> - 量化做市系统</summary>
-
-### [TradEx](https://github.com/tukuaiai/tradecat/tree/master/services-preview/order-service)
-
-**高频做市策略引擎**
-
-- 📈 **做市模型** - 学术级定价算法，动态价差优化
-- 🔄 **实时驱动** - 行情/成交/用户流实时驱动
-- 🛡️ **多层风控** - 敞口限制、强平阈值、冷却机制
-
-[![Tech](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 </details>
 
