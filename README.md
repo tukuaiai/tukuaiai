@@ -159,18 +159,6 @@
 
 </details>
 
-<details>
-<summary>🛠️ <b>开源工具集</b> - vibe-coding-cn 子仓库</summary>
-
-| 工具 | 描述 |
-|:---|:---|
-| 🔐 [Chat Vault](https://github.com/tukuaiai/vibe-coding-cn/tree/main/libs/external/chat-vault) | AI 聊天记录集中存储 - 支持 Codex/Kiro/Gemini/Claude，实时同步，Token 统计 |
-| 📚 [XHS-to-PDF](https://github.com/tukuaiai/vibe-coding-cn/tree/main/libs/external/XHS-image-to-PDF-conversion) | 小红书图文批量转 PDF - 智能排序，自动清理 |
-| 🎮 [MCPlayerTransfer](https://github.com/tukuaiai/vibe-coding-cn/tree/main/libs/external/MCPlayerTransfer) | Minecraft 基岩版角色转移 - 背包/末影箱/装备/经验全量迁移 |
-| 🌐 [HTML Tools](https://github.com/tukuaiai/vibe-coding-cn/tree/main/libs/external/html-tools-main) | HTML 工具集 - 任务卡片生成器、小红书图文制作、Markdown 编辑器、EPUB CSS 清理 |
-
-</details>
-
 ---
 
 ## 📫 联系方式
