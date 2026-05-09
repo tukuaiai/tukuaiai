@@ -8,6 +8,10 @@ chatgpt：[https://chatgpt.com/](https://chatgpt.com/)
 
 ## 作品集
 
+### vibe-coding-cn
+
+https://github.com/tukuaiai/vibe-coding-cn
+
 ### prompt_jsonl
 
 https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/
@@ -20,14 +24,6 @@ https://docs.google.com/spreadsheets/d/1k16nGFCE7oBXrEqvTpHSA2Z5530GM_kou-wiWklT
 
 https://docs.google.com/spreadsheets/d/1q-2sXGsFYsKf3nV5u5golTVrLH5sfc0doiWwz_kavE4/edit?usp=sharing
 
-### 湿件工程
-
-https://github.com/tukuaiai/wetware-engineering
-
-### vibe-coding-cn
-
-https://github.com/tukuaiai/vibe-coding-cn
-
 ### 交易猫
 
 https://github.com/tukuaiai/tradecat
@@ -39,6 +35,10 @@ https://github.com/tukuaiai/predictcat
 ### 测算猫
 
 https://github.com/tukuaiai/fatecat
+
+### 湿件工程
+
+https://github.com/tukuaiai/wetware-engineering
 
 ---
 
