@@ -14,7 +14,7 @@ https://github.com/tukuaiai/vibe-coding-cn
 
 ### prompt_jsonl：提示词库
 
-https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/
+https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/edit?usp=drivesdk
 
 ### 交易猫市场数据终端：技术指标在线终端
 
