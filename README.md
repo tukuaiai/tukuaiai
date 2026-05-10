@@ -8,35 +8,35 @@ openai：[https://openai.com](https://openai.com/)
 
 ## 作品集
 
-### vibe-coding-cn
+### vibe-coding-cn：vibe coding 经验分享
 
 https://github.com/tukuaiai/vibe-coding-cn
 
-### prompt_jsonl
+### prompt_jsonl：提示词库
 
 https://docs.google.com/spreadsheets/d/1Ifk_dLF25ULSxcfGem1hXzJsi7_RBUNAki8SBCuvkJA/
 
-### 交易猫市场数据终端
+### 交易猫市场数据终端：技术指标在线终端
 
 https://docs.google.com/spreadsheets/d/1k16nGFCE7oBXrEqvTpHSA2Z5530GM_kou-wiWklTsfY/edit?usp=sharing
 
-### 交易猫另类数据终端
+### 交易猫另类数据终端：另类数据实时在线终端
 
 https://docs.google.com/spreadsheets/d/1q-2sXGsFYsKf3nV5u5golTVrLH5sfc0doiWwz_kavE4/edit?usp=sharing
 
-### 交易猫
+### 交易猫：市场数据和另类数据获取器
 
 https://github.com/tukuaiai/tradecat
 
-### 预测猫
+### 预测猫：预测市场数据
 
 https://github.com/tukuaiai/predictcat
 
-### 测算猫
+### 测算猫：各种预测体系的算法，计算数据用于给 AI 使用进行预测
 
 https://github.com/tukuaiai/fatecat
 
-### 湿件工程
+### 湿件工程：讨论如何实现永生和记忆读写
 
 https://github.com/tukuaiai/wetware-engineering
 
