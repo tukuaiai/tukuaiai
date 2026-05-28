@@ -36,9 +36,9 @@ https://github.com/tukuaiai/predictcat
 
 https://github.com/tukuaiai/fatecat
 
-### 湿件工程：讨论如何实现永生和记忆读写
+### biocat：讨论如何实现永生和记忆读写
 
-https://github.com/tukuaiai/wetware-engineering
+https://github.com/tukuaiai/biocat
 
 ---
 
