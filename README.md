@@ -8,6 +8,10 @@ openai：[https://openai.com](https://openai.com/)
 
 ## 作品集
 
+### human_infra：人类基础设施理论
+
+https://github.com/tradecatlabs/human_infra
+
 ### vibe-coding-cn：vibe coding 经验分享
 
 https://github.com/tukuaiai/vibe-coding-cn
@@ -35,10 +39,6 @@ https://github.com/tukuaiai/predictcat
 ### 测算猫：各种预测体系的算法，计算数据用于给 AI 使用进行预测
 
 https://github.com/tukuaiai/fatecat
-
-### biocat：讨论如何实现永生和记忆读写
-
-https://github.com/tukuaiai/biocat
 
 ---
 
