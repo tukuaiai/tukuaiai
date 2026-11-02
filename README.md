@@ -14,7 +14,7 @@ https://github.com/tradecatlabs/human_infra
 
 ### vibe-coding-cn：vibe coding 经验分享
 
-https://github.com/tukuaiai/vibe-coding-cn
+https://gitlab.com/tradecatlabs/vibe-coding-cn
 
 ### prompt_jsonl：提示词库
 
